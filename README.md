@@ -27,7 +27,7 @@ Showcases my projects, skills, and experience in a professional web portfolio.
 ---
 
 ## 🛠️ Technical Skills
-Python | Java | JavaFX | HTML | CSS | JavaScript | C | Git | GitHub | VS Code | PyCharm | IntelliJ
+Python | Java | JavaFX | HTML | CSS | JavaScript | C (In Progress) | Git | GitHub | VS Code | PyCharm | IntelliJ
 
 ---
 
