@@ -39,4 +39,3 @@ Communication | Problem Solving | Team Collaboration | Active Listening
 ## 📫 Contact Me
 - 📧 Email: [kob20800@gmail.com]  
 - 🌐 LinkedIn: [https://www.linkedin.com/in/kris-bali-08183a35a/]
-- 📍 Rochester, NY
