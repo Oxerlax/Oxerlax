@@ -22,7 +22,7 @@ JavaFX app for budgeting expenses for 2-10+ roommates. Manages basic mathematic 
 Python-based golf shot tracker. Track distances, visualize trends, and analyze performance over time.
 
 ### [Personal Portfolio Website](https://github.com/Oxerlax/Personal-Portfolio-Website)
-Showcases my projects, skills, and experience in a professional web portfolio.
+Showcases my projects, skills, and experience in a professional web portfolio. ### [Link](https://oxerlax.github.io/Personal-Portfolio-Website/)
 
 ---
 
