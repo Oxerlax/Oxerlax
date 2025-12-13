@@ -27,7 +27,7 @@ Showcases my projects, skills, and experience in a professional web portfolio. [
 ---
 
 ## 🛠️ Technical Skills
-Python | Java | JavaFX | HTML | CSS | JavaScript | C (In Progress) | Git | GitHub | VS Code | PyCharm | IntelliJ
+Python | Java | JavaFX | HTML | CSS | JavaScript | C | Git | GitHub | VS Code | PyCharm | IntelliJ
 
 ---
 
@@ -38,4 +38,4 @@ Communication | Problem Solving | Team Collaboration | Active Listening
 
 ## 📫 Contact Me
 - 📧 Email: [kob20800@gmail.com]  
-- 🌐 LinkedIn: [https://www.linkedin.com/in/kris-bali-08183a35a/]
+- 🌐 LinkedIn: [https://www.linkedin.com/in/krisbali]
