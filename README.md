@@ -15,11 +15,11 @@ Passionate about building full-stack applications, optimizing code, and creating
 
 ## 💻 Featured Projects
 
+### [RoomiePay](https://github.com/Oxerlax/RoomiePay)
+JavaFX app for budgeting expenses for 2-10+ roommates. Manages basic mathematic operations and properly splits money between all inbvolved parties while maintaining a simplistic look.
+
 ### [RangeLine](https://github.com/Oxerlax/RangeLine)
 Python-based golf shot tracker. Track distances, visualize trends, and analyze performance over time.
-
-### [FrameMaster](https://github.com/Oxerlax/FrameMaster)
-JavaFX bowling score sheet app for up to 5 players, tracking scores, strikes, spares, and statistics with Gson persistence.
 
 ### [Personal Portfolio Website](https://github.com/Oxerlax/Personal-Portfolio-Website)
 Showcases my projects, skills, and experience in a professional web portfolio.
