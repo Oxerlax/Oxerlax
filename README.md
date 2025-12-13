@@ -15,7 +15,7 @@ Passionate about building full-stack applications, optimizing code, and creating
 
 ## 💻 Featured Projects
 
-### [RoomiePay](https://github.com/Oxerlax/RoomiePay)
+### [RoomiePay (In Progress)](https://github.com/Oxerlax/RoomiePay)
 JavaFX app for budgeting expenses for 2-10+ roommates. Manages basic mathematic operations and properly splits money between all inbvolved parties while maintaining a simplistic look.
 
 ### [RangeLine](https://github.com/Oxerlax/RangeLine)
