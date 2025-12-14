@@ -7,8 +7,8 @@ Passionate about building full-stack applications, optimizing code, and creating
 
 ## 🚀 About Me
 - Pursuing **Bachelor's of Science in Computer Science** (GPA: 3.92/4.00)  
-- Solid foundation in **Python, Java, JavaFX, HTML, CSS, JavaScript, and C** 
-- Experienced with **Git, GitHub, VS Code, PyCharm, IntelliJ**  
+- Solid foundation in **Python, Java, HTML, CSS, JavaScript, and C** 
+- Experienced with **Git, GitHub, Visual Studio Code, PyCharm, IntelliJ IDEA**  
 - Enthusiastic about applying theory to practical projects and co-op opportunities  
 
 ---
